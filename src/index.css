@@ -2,6 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: font1;
+  src: url(./assets/fonts/file.woff2);
+}
+
+@font-face {
+  font-family: font2;
+  src: url(./assets/fonts/file1.woff2);
+}
+
+@font-face {
+  font-family: font3;
+  src: url(./assets/fonts/file2.woff2);
+}
+
+@font-face {
+  font-family: font4;
+  src: url(./assets/fonts/file3.woff2);
+}
+
+@font-face {
+  font-family: font5;
+  src: url(./assets/fonts/madefor-text.var.original.woff2);
+}
+
 * {
   margin: 0;
   padding: 0;
